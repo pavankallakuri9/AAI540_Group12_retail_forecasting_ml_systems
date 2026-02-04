@@ -1,7 +1,4 @@
 # AAI540_Group12_retail_forecasting_ml_systems
-Perfect — here’s your **final GitHub README** with the team names added. You can paste this directly into your `README.md`.
-
----
 
 # 📦 Retail Demand Forecasting for Inventory Optimization
 
